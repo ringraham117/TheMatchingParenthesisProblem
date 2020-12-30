@@ -64,6 +64,7 @@ def check_if_parentheses_are_balanced(inString):
             # Indicates that the parentheses in the string are not balanced
             balanced_flag = False
 
+        # If none of the other conditions are met
         else:
 
             # Stores the top element of the stack
